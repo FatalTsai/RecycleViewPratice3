@@ -29,5 +29,7 @@ dependencies {
     //noinspection GradleCompatible
     compile 'com.android.support:recyclerview-v7:25.1.0'
     implementation 'androidx.recyclerview:recyclerview:1.0.0'
+    //implementation 'com.wgd.gdcp.gdcplibrary:ImageCompress:1.0.10'
+
 
 }
